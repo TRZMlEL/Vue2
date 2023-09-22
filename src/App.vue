@@ -6,7 +6,7 @@
     </h1>
 
     <h1 v-else="likes > 0" class="text-green-700 text-2xl">
-      No body like it 😢
+      Nobody like it 😢
     </h1>
 
     <button v-on:click="like()" class="bg-green-700 rounded-lg w-30 h-10 shadow-lg p-3 flex items-center justify-center">
