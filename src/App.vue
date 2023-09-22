@@ -10,7 +10,7 @@
     </h1>
 
     <button v-on:click="like()" class="bg-green-700 rounded-lg w-30 h-10 shadow-lg p-3 flex items-center justify-center">
-      I Like it 👍
+      👍 I Like it 👍
     </button>
   </main>
 </template>
